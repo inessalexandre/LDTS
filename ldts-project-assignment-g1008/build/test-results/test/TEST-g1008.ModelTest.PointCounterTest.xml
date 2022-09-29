@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g1008.ModelTest.PointCounterTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-01-27T19:53:27" hostname="DESKTOP-JV0I9G3" time="0.025">
+  <properties/>
+  <testcase name="processLinesTest()" classname="g1008.ModelTest.PointCounterTest" time="0.005"/>
+  <testcase name="processLevelAndGetTimerTest()" classname="g1008.ModelTest.PointCounterTest" time="0.002"/>
+  <testcase name="getSetTest()" classname="g1008.ModelTest.PointCounterTest" time="0.001"/>
+  <testcase name="processLevelAndGetTimerTest2()" classname="g1008.ModelTest.PointCounterTest" time="0.001"/>
+  <testcase name="processLevelAndGetTimerTest3()" classname="g1008.ModelTest.PointCounterTest" time="0.001"/>
+  <testcase name="processLevelAndGetTimerTest4()" classname="g1008.ModelTest.PointCounterTest" time="0.002"/>
+  <testcase name="processLevelAndGetTimerTest5()" classname="g1008.ModelTest.PointCounterTest" time="0.001"/>
+  <testcase name="processLevelAndGetTimerTest6()" classname="g1008.ModelTest.PointCounterTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

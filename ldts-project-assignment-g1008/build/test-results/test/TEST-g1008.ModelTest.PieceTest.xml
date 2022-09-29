@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="g1008.ModelTest.PieceTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-01-27T19:53:27" hostname="DESKTOP-JV0I9G3" time="0.054">
+  <properties/>
+  <testcase name="getFormTest()" classname="g1008.ModelTest.PieceTest" time="0.002"/>
+  <testcase name="moveUpTest()" classname="g1008.ModelTest.PieceTest" time="0.001"/>
+  <testcase name="SetColorTest()" classname="g1008.ModelTest.PieceTest" time="0.004"/>
+  <testcase name="setRotationTest()" classname="g1008.ModelTest.PieceTest" time="0.002"/>
+  <testcase name="rotateTest()" classname="g1008.ModelTest.PieceTest" time="0.001"/>
+  <testcase name="moveRightTest()" classname="g1008.ModelTest.PieceTest" time="0.001"/>
+  <testcase name="checkTest()" classname="g1008.ModelTest.PieceTest" time="0.001"/>
+  <testcase name="deRotateTest()" classname="g1008.ModelTest.PieceTest" time="0.0"/>
+  <testcase name="getHeightTest()" classname="g1008.ModelTest.PieceTest" time="0.002"/>
+  <testcase name="moveDownTest()" classname="g1008.ModelTest.PieceTest" time="0.002"/>
+  <testcase name="IPieceCheckRightTest()" classname="g1008.ModelTest.PieceTest" time="0.002"/>
+  <testcase name="setXTest()" classname="g1008.ModelTest.PieceTest" time="0.001"/>
+  <testcase name="setYTest()" classname="g1008.ModelTest.PieceTest" time="0.004"/>
+  <testcase name="moveLeftTest()" classname="g1008.ModelTest.PieceTest" time="0.002"/>
+  <testcase name="checkIfFitsTest()" classname="g1008.ModelTest.PieceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
