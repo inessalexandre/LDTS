@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="g1008.ControllerTest.GameTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-27T19:53:22" hostname="DESKTOP-JV0I9G3" time="3.868">
-  <properties/>
-  <testcase name="gameTest()" classname="g1008.ControllerTest.GameTest" time="2.798"/>
-  <testcase name="getRandomPieceTest()" classname="g1008.ControllerTest.GameTest" time="0.019"/>
-  <testcase name="getKeyTest()" classname="g1008.ControllerTest.GameTest" time="0.01"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

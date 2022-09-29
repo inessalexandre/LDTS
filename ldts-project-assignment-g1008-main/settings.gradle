@@ -1,4 +1,0 @@
-rootProject.name = 'projldts'
-include 'src:test:untitled'
-findProject(':src:test:untitled')?.name = 'untitled'
-
